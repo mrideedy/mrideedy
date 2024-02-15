@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
 <h1 align="center">Hi 👋, I'm Mrigank Shekhar</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 <img align = "right" alt="coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"
