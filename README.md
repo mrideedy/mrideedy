@@ -4,7 +4,7 @@
 
 I test mobile games for a living and build them in my spare time. I currently work in QA at **Appsoleut Games** (mobile game studio). Before that I spent 8 months at **Keywords Studios** testing live-service and pre-release titles on PC and mobile.
 
-🏆 **Best Debut Game** – YAHAHA Studios Global Game Jam (*The Land of the Dead*)
+🏆 **Best Debut Game** – YAHAHA Studios Global Game Jam
 
 ---
 
